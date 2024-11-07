@@ -1,0 +1,15 @@
+PSEUDOCODE STUDI KASUS 4
+Nama: Midareni harumi lintang permana
+kelas:X PPLG
+
+if total >=100.000 AND <=300.000 then
+	print ( selamat mendapat diskon 10% )
+	total =total - (total*0,1)
+else if total >=300.001 AND <=500.000 then
+	print ( selamat mendapat diskon 20% )
+	total =total - (total*0,2)
+else if total <500.000 then
+	print ( selamat mendapat diskon 25% )
+	total =total - (total*0,25)
+endif
+print (total)

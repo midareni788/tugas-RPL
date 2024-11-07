@@ -1,0 +1,15 @@
+STUDI KASUS 3
+nama : midareni harumi lintang permana
+kelas : X PPLG
+
+nilai
+if ni9lai >=81 AND nilai <= 100 then
+	print (A)
+else if nilai >= 71 AND nilai <= 80 then
+	print (B)
+lse if nilai >= 51 AND nilai <= 70 then
+	print (C)
+lse if nilai >= 11 AND nilai <= 50 then
+	print (D)
+else print (E)
+endif
